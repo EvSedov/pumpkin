@@ -1,0 +1,6 @@
+################ English language ##################
+[ru]
+languageName = "Ru"
+languageCode = "ru-ru"
+contentDir = "content/russian"
+weight = 1
