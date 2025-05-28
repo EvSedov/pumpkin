@@ -2,6 +2,7 @@
 # The base URL of your site (required). This will be prepended to all relative URLs.
 # baseURL = "/"
 baseURL = "https://evsedov.github.io/pumpkin/"
+staticDir = ["static"]
 # Title of your website (required).
 title = "Pumpkin"
 # Your theme name
